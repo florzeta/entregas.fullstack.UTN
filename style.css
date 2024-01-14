@@ -41,7 +41,7 @@ aside {
 
 /* Media queries para resoluciones menores o iguales a 800px */
 
-@media (max-width: 800px) {
+@media (max-width: 799px) {
 
 #contenedor {
 	width: 100%;
